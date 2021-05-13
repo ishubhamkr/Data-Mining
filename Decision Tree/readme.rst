@@ -10,6 +10,10 @@ A decision tree is a flowchart-like tree structure where an internal node repres
 
 This repository generates:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+Decision Tree using data set `hacvdat0 <https://archive.ics.uci.edu/ml/datasets/HCV+data>`_.
+Jupyter is used for implementing. Scikit-learn module is used for plotting the tree
+
+
 .. -*- mode: rst -*-
 
 |Azure|_ |Travis|_ |Codecov|_ |CircleCI|_ |Nightly wheels|_ |PythonVersion|_ |PyPi|_ |DOI|_
@@ -50,10 +54,7 @@ This repository generates:
 .. |PytestMinVersion| replace:: 5.0.1
 
 .. image:: doc/logos/scikit-learn-logo.png
-  :target: https://scikit-learn.org/
-
-Decision Tree using data set `hacvdat0 <https://archive.ics.uci.edu/ml/datasets/HCV+data>`_.
-Jupyter is used for implementing. Scikit-learn module is used for plotting the tree
+  :target: https://scikit-learn.org/ 
 
 **scikit-learn** is a Python module for machine learning built on top of
 SciPy and is distributed under the 3-Clause BSD license.
