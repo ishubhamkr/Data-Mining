@@ -53,8 +53,6 @@ Jupyter is used for implementing. Scikit-learn module is used for plotting the t
 .. |SeabornMinVersion| replace:: 0.9.0
 .. |PytestMinVersion| replace:: 5.0.1
 
-.. image:: doc/logos/scikit-learn-logo.png
-  :target: https://scikit-learn.org/ 
 
 **scikit-learn** is a Python module for machine learning built on top of
 SciPy and is distributed under the 3-Clause BSD license.
