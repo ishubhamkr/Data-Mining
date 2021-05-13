@@ -70,24 +70,3 @@ You can check the latest sources with the command::
 
     git clone https://github.com/scikit-learn/scikit-learn.git
 
-Contributing
-~~~~~~~~~~~~
-
-To learn more about making a contribution to scikit-learn, please see our
-`Contributing guide
-<https://scikit-learn.org/dev/developers/contributing.html>`_.
-
-Testing
-~~~~~~~
-
-After installation, you can launch the test suite from outside the source
-directory (you will need to have ``pytest`` >= |PyTestMinVersion| installed)::
-
-    pytest sklearn
-
-See the web page https://scikit-learn.org/dev/developers/advanced_installation.html#testing
-for more information.
-
-    Random number generation can be controlled during testing by setting
-    the ``SKLEARN_SEED`` environment variable.
-
