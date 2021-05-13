@@ -39,9 +39,6 @@ Jupyter is used for implementing. Scikit-learn module is used for plotting the t
 .. |PyPi| image:: https://badge.fury.io/py/scikit-learn.svg
 .. _PyPi: https://badge.fury.io/py/scikit-learn
 
-.. |DOI| image:: https://zenodo.org/badge/21369/scikit-learn/scikit-learn.svg
-.. _DOI: https://zenodo.org/badge/latestdoi/21369/scikit-learn/scikit-learn
-
 .. |PythonMinVersion| replace:: 3.6
 .. |NumPyMinVersion| replace:: 1.13.3
 .. |SciPyMinVersion| replace:: 0.19.1
