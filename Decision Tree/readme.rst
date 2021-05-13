@@ -14,7 +14,7 @@ This repository generates:
 .. |Azure| image:: https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=main
 .. _Azure: https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=main
 
-Decision Tree using data set `hacvdat0<https://archive.ics.uci.edu/ml/datasets/HCV+data>`_.
+Decision Tree using data set `hacvdat0 <https://archive.ics.uci.edu/ml/datasets/HCV+data> `_.
 Jupyter is used for implementing. Scikit-learn module is used for plotting the tree
 
 **scikit-learn** is a Python module for machine learning built on top of
