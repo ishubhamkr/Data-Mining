@@ -15,8 +15,10 @@ This repository generates:
 .. _Azure: https://dev.azure.com/scikit-learn/scikit-learn/_build/latest?definitionId=1&branchName=main
 
 Decision Tree using data set [hacvdat0](https://archive.ics.uci.edu/ml/datasets/HCV+data)
-Jupyter is used for implementing. Scikit-learn is used for plotting the tree
+Jupyter is used for implementing. Scikit-learn module is used for plotting the tree
 
+**scikit-learn** is a Python module for machine learning built on top of
+SciPy and is distributed under the 3-Clause BSD license.
 
 Scikit-learn plotting capabilities (i.e., functions start with ``plot_`` and
 classes end with "Display") require Matplotlib (>= |MatplotlibMinVersion|).
