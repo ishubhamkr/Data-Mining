@@ -5,4 +5,4 @@ Data mining techniques were deployed to scour large databases to find novel and 
 ## This repository contains:
 - [Decision Tree](https://github.com/ishubhamkr/Data-Mining/tree/main/Decision%20Tree)
 - [PyC4.5]
-- [K-nearest neighbor]
+- [K-nearest neighbor](https://github.com/ishubhamkr/Data-Mining/tree/main/K-Nearest%20Neighbors)
